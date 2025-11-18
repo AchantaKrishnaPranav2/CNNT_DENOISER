@@ -1,6 +1,6 @@
 # CNNT Denoiser (Denoising-only)
 
-This repository contains a compact, human-written implementation of a CNNT-style image denoiser.
+This repository contains a compact implementation of a CNNT-style image denoiser.
 
 ## Files
 
